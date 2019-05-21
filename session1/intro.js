@@ -15,7 +15,7 @@ let undefined;    // "undefined"
 
 Let $name; // Sai vì có ký tự đặc biệt $
 Let abc name; // Sai vì có khoảng trắng
-Let name // Sai vì thiếu dấu chấm phẩy ở cuối lệnh
+Let name; // Sai vì thiếu dấu chấm phẩy ở cuối lệnh
 Let 1name; // Sai vì ký tự đầu tiên là số
 Let name1 name 2 name 3; // sai vì thiếu dấu phẩy ngăn cách giữa các biến
 

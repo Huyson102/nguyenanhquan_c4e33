@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // let name = 1;
 // name = 5;
 // console.log("Hello", name);
@@ -16,6 +17,8 @@
 
 
 
+=======
+>>>>>>> 070b3066fbada7a90a44b34d464718f339589de9
 LÀM BÀI TẬP VỀ NHÀ
 // ----------------------------------------------
 // E1
@@ -33,13 +36,20 @@ let undefined;    // "undefined"
 
 Let $name; // Sai vì có ký tự đặc biệt $
 Let abc name; // Sai vì có khoảng trắng
+<<<<<<< HEAD
 Let name // Sai vì thiếu dấu chấm phẩy ở cuối lệnh
+=======
+Let name; // Sai vì thiếu dấu chấm phẩy ở cuối lệnh
+>>>>>>> 070b3066fbada7a90a44b34d464718f339589de9
 Let 1name; // Sai vì ký tự đầu tiên là số
 Let name1 name 2 name 3; // sai vì thiếu dấu phẩy ngăn cách giữa các biến
 
 
 //E2
+<<<<<<< HEAD
 
+=======
+>>>>>>> 070b3066fbada7a90a44b34d464718f339589de9
 let x = Number(prompt("Radius"));
 console.log("Diện tích là:", 3.14*Number(x)*Number(x));
 
@@ -56,6 +66,7 @@ console.log("Độ F là:", 1.8*Number(y) + 32);
 
 
 // ---------------------------------------------
+<<<<<<< HEAD
 
 // E4
 //Hình vuông
@@ -69,6 +80,21 @@ rt(90)
 fd(100)
 rt(90)
 
+=======
+
+// E4
+//Hình vuông
+clear()
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+
+>>>>>>> 070b3066fbada7a90a44b34d464718f339589de9
 /////////// Cách 2
 clear()
 for (let i = 0; i < 2; i++ )

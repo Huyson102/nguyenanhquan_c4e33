@@ -3,9 +3,9 @@ E1.	What is Boolean?
 
 
     Write down 3 different expression that results a Boolean type (i.e. 5 == 6)?
-        var a = boolean(10); //returns true
-        var b = boolean(21.5); //returns true
-        var c = boolean("homework"); //returns true
+        let a = boolean(10); //returns true
+        let b = boolean(21.5); //returns true
+        let c = boolean("homework"); //returns true
 
 E2. What is a flow chart? 
         A flowchart is a diagram that depicts a process, system or computer algorithm. 
